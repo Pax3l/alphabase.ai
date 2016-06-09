@@ -1,6 +1,6 @@
-# Vicktor Capital
+# Alphabase
 Link: http://pax3l.github.io/vicktorcapital/index.html
 
 Official website: http://alphabase.ai
 
-This respository contains the alpha version for the alphabase.ai website. Alphabase.ai is an artificial intelligence competition, intended to predict stock market trends to make profit.
+Contains the alpha version for the alphabase.ai website. Alphabase.ai is an artificial intelligence competition, where users try to create a model to predict stock market trends.
