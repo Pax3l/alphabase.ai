@@ -1,5 +1,5 @@
 # Alphabase
-Link: http://pax3l.github.io/vicktorcapital/index.html
+Link: http://pax3l.github.io/alphabase.ai/index.html
 
 Official website: http://alphabase.ai
 
